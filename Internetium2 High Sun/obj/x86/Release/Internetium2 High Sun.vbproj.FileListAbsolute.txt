@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Desktop\Internetium 2.0\Internetium 2.0 High Sun.exe
+C:\Documents and Settings\Administrator\Desktop\Internetium 2.0\Internetium 2.0 High Sun.pdb
+C:\Documents and Settings\Administrator\Desktop\Internetium 2.0\Internetium 2.0 High Sun.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Internetium2 High Sun\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Internetium2 High Sun\obj\x86\Release\Internetium2_High_Sun.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Internetium2 High Sun\obj\x86\Release\Internetium2_High_Sun.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Internetium2 High Sun\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Internetium2 High Sun\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Internetium2 High Sun\obj\x86\Release\Internetium 2.0 High Sun.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Internetium2 High Sun\obj\x86\Release\Internetium 2.0 High Sun.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Internetium2 High Sun\obj\x86\Release\Internetium 2.0 High Sun.pdb
