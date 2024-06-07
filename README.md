@@ -15,4 +15,4 @@ It's based on Internet Explorer, based on WebBrowser built in control on VS.
 You can use Visual Basic 2010 Express, but change the compile location.
 
 # Can I contact you via Discord?
-Yes, you can but if I busy, not. Username:basicallymachine_36262
+Yes, you can but if I busy, not. Username:_purpleguy__
